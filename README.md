@@ -22,30 +22,20 @@
 
 ## 📂 Estructura del repositorio
 
-**cotizaciones/**
-
-├── 📁 web-development/
-
-│ ├── 📄 proyecto-ecommerce.md
-
-│ └── 📄 portal-corporativo.md
-
-├── 📁 data-solutions/
-
-│ ├── 📄 dashboard-analitico.md
-
-│ └── 📄 etl-automatizacion.md
-
-├── 📁 apis-integrations/
-
-│ └── 📄 api-pagos.md
-
-└── 📁 plantillas/
-
-├── 📄 plantilla-cotizacion.md
-
-└── 📄 terminos-condiciones.md
-
+~~~
+cotizaciones/
+  ├── 📁 web-development/
+  │ ├── 📄 proyecto-ecommerce.md
+  │ └── 📄 portal-corporativo.md
+  ├── 📁 data-solutions/
+  │ ├── 📄 dashboard-analitico.md
+  │ └── 📄 etl-automatizacion.md
+  ├── 📁 apis-integrations/
+  │ └── 📄 api-pagos.md
+  └── 📁 plantillas/
+  ├── 📄 plantilla-cotizacion.md
+  └── 📄 terminos-condiciones.md
+~~~
 
 ## 🔍 ¿Cómo consultar una cotización?
 
